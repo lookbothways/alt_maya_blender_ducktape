@@ -3,6 +3,26 @@ import os
 from bpy.types import Operator
 
 
+"""
+Orbit Like Maya (Industry Compatible navigation) only when Alt is held down
+
+To install:
+
+* Clone or download
+
+* Install via edit > preferences > install from disk
+
+Then in Blender's regular keymap settings:
+
+* Change the dolly zoom prefs to horizontal instead of vertical
+
+Optional: Change the numpad (.) frame selections to 'f' for Maya's focus if on a laptop without a numpad.
+
+https://github.com/lookbothways/alt_maya_blender_ducktape
+
+
+"""
+
 bl_info = {
     "name": "ALT Blender Maya Ducktape 2",
     "blender": (4, 5, 0),
