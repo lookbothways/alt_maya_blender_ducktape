@@ -1,6 +1,6 @@
 You want to use Blender
 
-You open Blender and try to navigate like many other major 3D application
+You open Blender and try to navigate like many other major 3D applications
 
 Nothing makes sense
 
